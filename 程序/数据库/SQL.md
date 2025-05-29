@@ -1,4 +1,4 @@
-### 教程
+### `MySQL join` 相关
 
 [MySQL join详解](https://segmentfault.com/a/1190000015572505)
 
